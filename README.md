@@ -43,7 +43,7 @@ npm test
 
 ---
 
-## Чистые функции
+## [Чистые функции](./src/js/__tests__/pure_funtions.test.js)
 
 ### Легенда
 
@@ -66,7 +66,7 @@ npm test
 
 ---
 
-## Matchers
+## [Matchers](./src/js/__tests__/matchers.test.js)
 
 ### Легенда
 
@@ -97,7 +97,7 @@ npm test
 
 ---
 
-## Mocking (задача со звёздочкой)
+## [Mocking](./src/js/__tests__/mocking.test.js) (задача со звёздочкой)
 
 **Важно**: данная задача не является обязательной 
 
