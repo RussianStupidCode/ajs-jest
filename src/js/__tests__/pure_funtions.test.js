@@ -2,8 +2,8 @@ import getColorIndicator from '../pure_functions';
 
 const DATA = [
   [{ name: 'Маг', health: 90 }, 'healthy'],
-  [{ name: 'Маг', health: 50 }, 'healthy'],
-  [{ name: 'Маг', health: 49 }, 'wounded'],
+  [{ name: 'Маг', health: 51 }, 'healthy'],
+  [{ name: 'Маг', health: 50 }, 'wounded'],
   [{ name: 'Маг', health: 15 }, 'wounded'],
   [{ name: 'Маг', health: 14 }, 'critical'],
   [{ name: 'Маг', health: 1 }, 'critical'],

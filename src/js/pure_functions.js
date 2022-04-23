@@ -7,7 +7,7 @@ export default function getColorIndicator(object) {
     throw Error('not contain health property');
   }
 
-  if (object.health >= 50) {
+  if (object.health > 50) {
     return 'healthy';
   }
 
